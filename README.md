@@ -1,0 +1,2 @@
+# trades
+Trade records
